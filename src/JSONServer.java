@@ -3,8 +3,6 @@ Author: Isaiah Zupke
 Date: 04/05/2019
  */
 
-package sample;
-
 import org.json.JSONArray; //Not working? It comes from the jar
 import org.json.JSONObject;// not working? it comes from the jar
 //import the jar into eclipse. idk how but just do it
